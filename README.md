@@ -8,7 +8,7 @@
 </p>
 
 ## <img src="https://slackmojis.com/emojis/10254-pepe_naruto/download" width="25"> About Me
-Hi, I’m Adeed! I'm a 2nd-year CS student and a Frontend Developer at **MLCOE**. I'm passionate about building scalable web applications and mastering the full-stack ecosystem.
+Hi, I’m Adeed! I'm a 2nd-year CS student. I'm passionate about building scalable web applications and mastering the full-stack ecosystem.
 
 * **🚀 Currently working with:** MongoDB, Express.js, React, Node.js (MERN)
 * **🛠️ Building:** **Velvet & Vines** (E-commerce) & **Trinity** (Multi-LLM Tool)

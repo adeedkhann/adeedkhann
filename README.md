@@ -56,7 +56,3 @@ Hi, I’m Adeed! I'm a 2nd-year CS student. I'm passionate about building scalab
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=adeedkhann&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 </p>
-
-<p align="right">
-  <i>Proudly created with Github Readme Maker</i>
-</p>
